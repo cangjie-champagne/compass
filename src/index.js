@@ -100,7 +100,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['disaster'],
       web: []
     };
     
@@ -116,19 +116,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
       }
     }
@@ -140,7 +140,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mountain'],
       web: []
     };
     
@@ -156,19 +156,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
       }
     }
@@ -180,7 +180,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -196,19 +196,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['corpse'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['twenty'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['ten'];
           break;
       }
     }
@@ -220,7 +220,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['heart'],
       web: []
     };
     
@@ -236,19 +236,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['field'];
           break;
       }
     }
@@ -260,7 +260,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['disaster'],
       web: []
     };
     
@@ -276,19 +276,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['predict'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
       }
     }
@@ -300,7 +300,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -316,19 +316,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -340,7 +340,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['bow'],
       web: []
     };
     
@@ -356,19 +356,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['corpse'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
       }
     }
@@ -380,7 +380,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -396,19 +396,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
       }
     }
@@ -420,7 +420,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['twenty'],
       web: []
     };
     
@@ -436,15 +436,15 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
       }
     }
@@ -456,7 +456,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['water'],
       web: []
     };
     
@@ -472,19 +472,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -496,7 +496,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['twenty'],
       web: []
     };
     
@@ -512,19 +512,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['fire'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
       }
     }
@@ -536,7 +536,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -552,19 +552,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['corpse'];
           break;
       }
     }
@@ -576,7 +576,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -592,19 +592,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['corpse'];
           break;
       }
     }
@@ -616,7 +616,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mountain'],
       web: []
     };
     
@@ -632,19 +632,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
       }
     }
@@ -656,7 +656,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['dagger-axe'],
       web: []
     };
     
@@ -672,15 +672,15 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -692,7 +692,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['day'],
       web: []
     };
     
@@ -708,19 +708,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
       }
     }
@@ -732,7 +732,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['day'],
       web: []
     };
     
@@ -748,19 +748,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['predict'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -772,7 +772,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['twenty'],
       web: []
     };
     
@@ -788,19 +788,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
       }
     }
@@ -812,7 +812,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -828,19 +828,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['ten'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['predict'];
           break;
       }
     }
@@ -852,7 +852,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -868,19 +868,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['field'];
           break;
       }
     }
@@ -892,7 +892,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['corpse'],
       web: []
     };
     
@@ -908,19 +908,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['twenty'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
       }
     }
@@ -932,7 +932,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['water'],
       web: []
     };
     
@@ -948,19 +948,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['field'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
       }
     }
@@ -972,7 +972,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -988,19 +988,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
       }
     }
@@ -1012,7 +1012,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['twenty'],
       web: []
     };
     
@@ -1028,11 +1028,11 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['dagger-axe'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
       }
     }
@@ -1044,7 +1044,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['water'],
       web: []
     };
     
@@ -1060,19 +1060,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['fire'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
       }
     }
@@ -1084,7 +1084,7 @@ class Compass {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -1100,19 +1100,19 @@ class Compass {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
       }
     }
